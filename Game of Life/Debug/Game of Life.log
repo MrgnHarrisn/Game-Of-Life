@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\mrgnh\Documents\Acta\projects\Game of Life\Game of Life\main.cpp(43,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mrgnh\Documents\Acta\projects\Game of Life\Game of Life\main.cpp(139,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mrgnh\Documents\Acta\projects\Game of Life\Game of Life\main.cpp(139,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game of Life.vcxproj -> C:\Users\mrgnh\Documents\Acta\projects\Game of Life\Debug\Game of Life.exe
